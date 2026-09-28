@@ -1,4 +1,4 @@
-# 👨‍💻 Eduardo — e.drddddd
+#  Eduardo — e.drddddd
 
 > **Full Stack Developer · Software & Network Design · Bioinformatics**
 
@@ -6,24 +6,24 @@
 
 Me interesa transformar ideas en soluciones digitales, combinando **desarrollo frontend, backend, automatización, bases de datos y análisis de datos** para construir proyectos útiles y eficientes.
 
-🌐 **Portafolio:** [edrddddd.online](https://edrddddd.online/)
+ **Portafolio:** [edrddddd.online](https://edrddddd.online/)
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
 Soy estudiante de **Ingeniería en Diseño de Software y Redes** y desarrollador enfocado en crear soluciones digitales mediante diferentes tecnologías.
 
 Actualmente trabajo principalmente con:
 
-* 🌐 Desarrollo Web
-* ⚙️ Desarrollo Full Stack
-* 🗄️ Bases de datos
-* 🔌 APIs y servicios web
-* 🤖 Automatización
-* 📊 Análisis y visualización de datos
-* 🧬 Bioinformática
-* 🎨 Diseño de interfaces y experiencia de usuario
+* Desarrollo Web
+* Desarrollo Full Stack
+* Bases de datos
+* APIs y servicios web
+* Automatización
+* Análisis y visualización de datos
+* Bioinformática
+* Diseño de interfaces y experiencia de usuario
 
 Me gusta aprender nuevas tecnologías y convertir problemas reales en herramientas digitales.
 
@@ -70,9 +70,9 @@ También trabajo con herramientas y tecnologías relacionadas con:
 
 ---
 
-# 📂 Proyectos
+# Proyectos
 
-## 🌎 Blizkomap
+## Blizkomap
 
 Plataforma desarrollada para recopilar y compartir lugares para comer y actividades cercanas para estudiantes universitarios.
 
@@ -87,7 +87,7 @@ Plataforma desarrollada para recopilar y compartir lugares para comer y activida
 
 ---
 
-## 🐀 RataPrieta.art
+## RataPrieta.art
 
 Plataforma enfocada en recopilar herramientas digitales gratuitas para diseño, productividad, edición multimedia y desarrollo creativo.
 
@@ -97,11 +97,11 @@ Plataforma enfocada en recopilar herramientas digitales gratuitas para diseño, 
 * CSS
 * JavaScript
 
-🔗 **Demo:** [rataprieta.art](https://rataprieta.art/)
+**Demo:** [rataprieta.art](https://rataprieta.art/)
 
 ---
 
-## 🧬 GenomicsTrack Solutions
+##  GenomicsTrack Solutions
 
 Sitio web desarrollado para una iniciativa enfocada en soluciones bioinformáticas y análisis de datos genómicos para investigación científica.
 
@@ -111,11 +111,11 @@ Sitio web desarrollado para una iniciativa enfocada en soluciones bioinformátic
 * CSS
 * JavaScript
 
-🔗 **Demo:** [genomicstracksolutions.com](https://www.genomicstracksolutions.com/)
+**Demo:** [genomicstracksolutions.com](https://www.genomicstracksolutions.com/)
 
 ---
 
-## 🎮 Juego del Gato
+## Juego del Gato
 
 Aplicación web del clásico juego de gato con diferentes modalidades de juego.
 
@@ -133,7 +133,7 @@ Permite jugar:
 
 ---
 
-## ⚡ Optimizador de PC
+##  Optimizador de PC
 
 Aplicación desarrollada para automatizar tareas de mantenimiento y optimización de equipos de cómputo.
 
@@ -148,7 +148,7 @@ El proyecto permite realizar tareas como limpieza de archivos innecesarios y man
 
 ---
 
-## 🐦 App para @JS
+##  App para @JS
 
 Aplicación desarrollada en Python para automatizar la creación de imágenes con estilo de publicaciones tipo tweet.
 
@@ -163,7 +163,7 @@ Permite generar imágenes:
 
 ---
 
-## 📊 CONEVAL — 10 años de medición de pobreza en México
+## CONEVAL — 10 años de medición de pobreza en México
 
 Proyecto web de visualización de datos basado en información publicada por CONEVAL.
 
@@ -179,7 +179,7 @@ Incluye datos correspondientes a los años:
 
 ---
 
-## 🎰 App de sorteo de premios
+## App de sorteo de premios
 
 Aplicación desarrollada para automatizar sorteos de premios entre clientes de una empresa.
 
@@ -193,7 +193,7 @@ El sistema fue diseñado para facilitar la realización de sorteos periódicos.
 
 ---
 
-## 🎨 Portafolio de diseño gráfico
+## Portafolio de diseño gráfico
 
 Sitio web desarrollado como portafolio profesional para mostrar trabajos y proyectos relacionados con diseño gráfico.
 
@@ -204,17 +204,17 @@ Sitio web desarrollado como portafolio profesional para mostrar trabajos y proye
 
 ---
 
-# 📈 Experiencia
+# Experiencia
 
-* 💻 **3+ años de experiencia**
-* 🚀 **10+ proyectos completados**
-* 🌎 Desarrollo de proyectos para diferentes necesidades
-* 🧬 Experiencia combinando software y bioinformática
-* ⚙️ Desarrollo de herramientas y automatizaciones
+* **3+ años de experiencia**
+* **10+ proyectos completados**
+* Desarrollo de proyectos para diferentes necesidades
+* Experiencia combinando software y bioinformática
+* Desarrollo de herramientas y automatizaciones
 
 ---
 
-# 🎯 En qué puedo ayudarte
+# En qué puedo ayudarte
 
 Estoy interesado en proyectos relacionados con:
 
@@ -231,7 +231,7 @@ Estoy interesado en proyectos relacionados con:
 
 ---
 
-# 📚 Actualmente aprendiendo
+# Actualmente aprendiendo
 
 Me encuentro constantemente ampliando mis conocimientos en:
 
@@ -246,21 +246,21 @@ Me encuentro constantemente ampliando mis conocimientos en:
 
 ---
 
-# 📫 Contacto
+# Contacto
 
 Si tienes una idea, proyecto o simplemente quieres hablar sobre tecnología, puedes contactarme.
 
-📧 **Email:** [contactedrddddd@gmail.com](mailto:contactedrddddd@gmail.com)
+**Email:** [contactedrddddd@gmail.com](mailto:contactedrddddd@gmail.com)
 
-🌐 **Portafolio:** [edrddddd.online](https://edrddddd.online/)
+**Portafolio:** [edrddddd.online](https://edrddddd.online/)
 
-💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/)
+**LinkedIn:** [LinkedIn](https://www.linkedin.com/)
 
-💻 **GitHub:** [GitHub](https://github.com/)
+**GitHub:** [GitHub](https://github.com/)
 
 ---
 
-## ⭐ Gracias por visitar mi perfil
+## Gracias por visitar mi perfil
 
 > *"First, solve the problem. Then, write the code."*
 
