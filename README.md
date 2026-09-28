@@ -83,7 +83,7 @@ Plataforma desarrollada para recopilar y compartir lugares para comer y activida
 * JavaScript
 * Supabase
 
-🔗 **Demo:** [blizkomap](https://blizkomap.ratonguaton8.workers.dev/)
+**Demo:** [blizkomap](https://blizkomap.ratonguaton8.workers.dev/)
 
 ---
 
