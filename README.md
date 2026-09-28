@@ -29,7 +29,7 @@ Me gusta aprender nuevas tecnologías y convertir problemas reales en herramient
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 ### Frontend
 
